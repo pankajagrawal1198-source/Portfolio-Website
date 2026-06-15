@@ -1,5 +1,5 @@
 # Portfolio-Website
-Hello
+
 This repository contains the source code of my personal portfolio website built using HTML and CSS. It showcases my skills, projects, interests, and background as a B.Tech 1st Year CSE (AI & ML) student. The website reflects my learning journey and helps me practice real-world web development concepts.
 
 ⭐ About Me
